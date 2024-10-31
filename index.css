@@ -8,15 +8,15 @@ main {
     height: 600px;
     display:flex;
     justify-content: center;
-    margin-bottom: 50px;
 }
 canvas {
     background-color: black;
     height: 600px;
 }
-h1 {
+h1 ,footer {
     display:flex;
     justify-content: center;
+    margin: 20px;
 }
 #formContainer {
     background-color: hsla(240, 100%, 68%, 0.658);
