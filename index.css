@@ -10,8 +10,9 @@ main {
     justify-content: center;
 }
 canvas {
-    background-color: black;
+    width: 600px;
     height: 600px;
+    border: 8px solid #3382db;
 }
 h1 ,footer {
     display:flex;
